@@ -35,7 +35,7 @@ class Extrema {
     }
 
     public static int min(int one, int two){
-        if(one <= two)
+        if(one <= two) 
             return one;
         else return two;
     }
